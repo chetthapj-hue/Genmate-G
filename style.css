@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+    background-image: linear-gradient(
+        to right top,
+        #114aa1,
+        #007fd1,
+        #00acc3,
+        #00d27f,
+        #a8eb12
+    );
+}
+
+main {
+}
+
+h1 {
+    background-color: pink;
+}
+h2 {
+    color: greenyellow;
+}
+
+p {
+    color: salmon;
+}
